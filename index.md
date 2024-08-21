@@ -1,4 +1,4 @@
-# Hi, how's life?
+Hi, how's life?
 
 Cool, me too
 
